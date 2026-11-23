@@ -1,0 +1,4 @@
+date,forecast_as_of,prior_value_usd,hs_var_usd,ewhs_var_usd,ewma_var_usd,garch_var_usd,vfhs_var_usd,loss_usd,hs_exception,hs_excess_usd,ewhs_exception,ewhs_excess_usd,ewma_exception,ewma_excess_usd,garch_exception,garch_excess_usd,vfhs_exception,vfhs_excess_usd
+2008-10-07,2008-10-06,53304.65433,3649.967807,7918.055246,9055.45269,9481.485401,13463.37457,10168.19347,True,6518.225667,True,2250.138228,True,1112.740784,True,686.7080727,False,N/A
+2008-09-15,2008-09-12,55542.74248,3270.441649,3519.835637,5279.137007,4675.856084,5376.676658,9663.585448,True,6393.143799,True,6143.749811,True,4384.448441,True,4987.729364,True,4286.90879
+2008-09-29,2008-09-26,60656.15472,3813.213732,4811.229683,9522.645745,10287.98918,13187.91945,9010.0722,True,5196.858468,True,4198.842516,False,N/A,False,N/A,False,N/A
